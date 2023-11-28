@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\bin\Debug\Day17Assignment.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\bin\Debug\Day17Assignment.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\bin\Debug\Day17Assignment.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\obj\Debug\Day17Assignment.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\obj\Debug\Day17Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\obj\Debug\Day17Assignment.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day17\Day17Assignment\Day17Assignment\obj\Debug\Day17Assignment.pdb
